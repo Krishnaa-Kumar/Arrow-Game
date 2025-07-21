@@ -23,4 +23,4 @@ A simple and interactive browser game controlled entirely using the **mouse**. D
 
 ## Live Demo 
 
-Click On [Live Demo](Krishnaa-Kumar.github.io/Arrow-Game) For Live Demo.
+Click On [Live Demo](https://krishnaa-kumar.github.io/Arrow-Game/) For Live Demo.
